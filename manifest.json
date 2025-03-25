@@ -1,6 +1,6 @@
 {
 	"name": "FoulestPack",
-	"version_number": "1.0.6",
+	"version_number": "1.0.7",
 	"website_url": "https://github.com/Foulest",
 	"description": "Foulest's mod pack for R.E.P.O. that improves the vanilla experience.",
 	"dependencies": [
@@ -12,6 +12,6 @@
 		"eth9n-Mimic-1.1.0",
 		"BlueAmulet-REPONetworkTweaks-1.0.1",
 		"OnlyRyan-TumbleGuard-1.1.5",
-		"CCarrMcMahon-Essentials-0.3.4"
+		"CCarrMcMahon-Essentials-0.3.5"
 	]
 }
