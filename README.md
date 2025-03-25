@@ -6,7 +6,7 @@ A mod pack for [R.E.P.O.](https://store.steampowered.com/app/3241660/REPO/) that
 [Thunderstore](https://thunderstore.io/c/repo/p/Foulest/FoulestPack/)
 • [GitHub](https://github.com/Foulest/FoulestPack)
 
-### Mod List
+## Mod List
 - **AsyncLoggers** (improves performance)
 - **BepInExPack** (required)
 - **ChatClipboard** (allows pasting into the chat box)
