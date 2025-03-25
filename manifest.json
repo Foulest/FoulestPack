@@ -1,0 +1,17 @@
+{
+	"name": "FoulestPack",
+	"version_number": "1.0.6",
+	"website_url": "https://github.com/Foulest",
+	"description": "Foulest's mod pack for R.E.P.O. that improves the vanilla experience.",
+	"dependencies": [
+		"mattymatty-AsyncLoggers-2.1.4",
+		"Rebateman-LateJoin-0.1.2",
+		"BepInEx-BepInExPack-5.4.2100",
+		"Tidaleus-MoreReviveHP-1.0.1",
+		"Snowlance-NoDamageInShop-1.0.1",
+		"eth9n-Mimic-1.1.0",
+		"BlueAmulet-REPONetworkTweaks-1.0.1",
+		"OnlyRyan-TumbleGuard-1.1.5",
+		"CCarrMcMahon-Essentials-0.3.4"
+	]
+}
