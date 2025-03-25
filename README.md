@@ -1,6 +1,5 @@
 # FoulestPack
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
-[![CodeQL](https://github.com/Foulest/FoulestPack/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/Foulest/FoulestPack/actions/workflows/github-code-scanning/codeql)
 
 A mod pack for [R.E.P.O.](https://store.steampowered.com/app/3241660/REPO/) that improves the vanilla experience.
 
