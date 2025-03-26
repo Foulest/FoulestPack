@@ -1,6 +1,6 @@
 {
 	"name": "FoulestPack",
-	"version_number": "1.0.9",
+	"version_number": "1.1.0",
 	"website_url": "https://github.com/Foulest",
 	"description": "Foulest's mod pack for R.E.P.O. that improves the vanilla experience.",
 	"dependencies": [
@@ -10,7 +10,7 @@
 		"Tidaleus-MoreReviveHP-1.0.1",
 		"Snowlance-NoDamageInShop-1.0.1",
 		"eth9n-Mimic-1.1.1",
-		"BlueAmulet-REPONetworkTweaks-1.0.1",
+		"BlueAmulet-REPONetworkTweaks-1.0.2",
 		"OnlyRyan-TumbleGuard-1.1.5",
 		"CCarrMcMahon-Essentials-0.3.5",
 		"Tolian-REPODiscordRichPresence-0.1.3",
