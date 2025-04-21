@@ -1,6 +1,6 @@
 {
 	"name": "FoulestPack",
-	"version_number": "1.1.0",
+	"version_number": "1.1.7",
 	"website_url": "https://github.com/Foulest",
 	"description": "Foulest's mod pack for R.E.P.O. that improves the vanilla experience.",
 	"dependencies": [
@@ -9,12 +9,24 @@
 		"BepInEx-BepInExPack-5.4.2100",
 		"Tidaleus-MoreReviveHP-1.0.1",
 		"Snowlance-NoDamageInShop-1.0.1",
-		"eth9n-Mimic-1.1.1",
-		"BlueAmulet-REPONetworkTweaks-1.0.2",
+		"eth9n-Mimic-1.1.6",
+		"readthisifbad-NetworkingReworked-0.2.2",
 		"OnlyRyan-TumbleGuard-1.1.5",
 		"CCarrMcMahon-Essentials-0.3.5",
-		"Tolian-REPODiscordRichPresence-0.1.3",
+		"Tolian-REPODiscordRichPresence-0.1.6",
 		"ManancialGD-ChatClipboard-1.0.0",
-		"Traktool-EnhancedStaminaUpgrade-1.0.0"
+		"Traktool-EnhancedStaminaUpgrade-1.0.0",
+		"DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher-1.0.1",
+		"nickklmao-MenuLib-2.3.0",
+		"nickklmao-REPOConfig-1.1.8",
+		"Zehs-REPOLib-2.0.1",
+		"discjenny-CartSpeedSync-2.0.0",
+		"SaturnKai-Dead_Map_Access-1.0.4",
+		"yvsimakov-FullHealth-1.5.2",
+		"nickklmao-FreecamSpectate-1.1.0",
+		"surfknasen-Walkie_Talkies-1.1.1",
+		"umbreon222-LastStand-1.0.3",
+		"dig-BetterDirectionalDrones-1.0.0",
+		"Lazarus-NoGunSpread-1.0.2"
 	]
 }
